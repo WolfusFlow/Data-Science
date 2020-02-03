@@ -1,0 +1,436 @@
+,confirmed,country,date,deaths,province,recovered
+37,1,South Korea,2020-01-22,0,,0
+15,0,China,2020-01-22,0,Inner Mongolia,0
+14,4,China,2020-01-22,0,Hunan,0
+13,444,China,2020-01-22,0,Hubei,0
+12,,China,2020-01-22,0,Hong Kong,0
+11,5,China,2020-01-22,0,Henan,0
+10,,China,2020-01-22,0,Heilongjiang,0
+9,1,China,2020-01-22,0,Hebei,0
+16,1,China,2020-01-22,0,Jiangsu,0
+8,4,China,2020-01-22,0,Hainan,0
+6,2,China,2020-01-22,0,Guangxi,0
+5,26,China,2020-01-22,0,Guangdong,0
+4,0,China,2020-01-22,0,Gansu,0
+3,1,China,2020-01-22,0,Fujian,0
+2,6,China,2020-01-22,0,Chongqing,0
+1,14,China,2020-01-22,0,Beijing,0
+0,1,China,2020-01-22,0,Anhui,0
+7,1,China,2020-01-22,0,Guizhou,0
+17,2,China,2020-01-22,0,Jiangxi,0
+36,2,Thailand,2020-01-22,0,,0
+19,2,China,2020-01-22,0,Liaoning,0
+18,,China,2020-01-22,0,Jilin,0
+35,2,Japan,2020-01-22,0,,0
+34,10,China,2020-01-22,0,Zhejiang,0
+33,1,China,2020-01-22,0,Yunnan,0
+31,1,US,2020-01-22,0,Washington,0
+30,0,China,2020-01-22,0,Tibet,0
+29,4,China,2020-01-22,0,Tianjin,0
+28,1,China,2020-01-22,0,Taiwan,0
+32,0,China,2020-01-22,0,Xinjiang,0
+26,1,China,2020-01-22,0,Shanxi,0
+25,9,China,2020-01-22,0,Shanghai,0
+24,2,China,2020-01-22,0,Shandong,0
+23,0,China,2020-01-22,0,Shaanxi,0
+22,0,China,2020-01-22,0,Qinghai,0
+21,1,China,2020-01-22,0,Ningxia,0
+20,1,China,2020-01-22,0,Macau,0
+27,5,China,2020-01-22,0,Sichuan,0
+12,2,Hong Kong,2020-01-23,0,Hong Kong,0
+13,444,Mainland China,2020-01-23,0,Hubei,0
+14,9,Mainland China,2020-01-23,0,Hunan,0
+15,,Mainland China,2020-01-23,0,Inner Mongolia,0
+19,3,Mainland China,2020-01-23,0,Liaoning,0
+17,7,Mainland China,2020-01-23,0,Jiangxi,0
+18,1,Mainland China,2020-01-23,0,Jilin,0
+11,5,Mainland China,2020-01-23,0,Henan,0
+16,5,Mainland China,2020-01-23,0,Jiangsu,0
+10,2,Mainland China,2020-01-23,0,Heilongjiang,0
+1,22,Mainland China,2020-01-23,0,Beijing,0
+8,5,Mainland China,2020-01-23,0,Hainan,0
+7,3,Mainland China,2020-01-23,0,Guizhou,0
+6,5,Mainland China,2020-01-23,0,Guangxi,0
+5,32,Mainland China,2020-01-23,0,Guangdong,0
+4,2,Mainland China,2020-01-23,0,Gansu,0
+3,5,Mainland China,2020-01-23,0,Fujian,0
+2,9,Mainland China,2020-01-23,0,Chongqing,0
+20,2,Macau,2020-01-23,0,Macau,0
+0,9,Mainland China,2020-01-23,0,Anhui,0
+9,1,Mainland China,2020-01-23,0,Hebei,0
+22,0,Mainland China,2020-01-23,0,Qinghai,0
+21,1,Mainland China,2020-01-23,0,Ningxia,0
+43,,Mexico,2020-01-23,0,,0
+45,,Colombia,2020-01-23,0,,0
+44,,Brazil,2020-01-23,0,,0
+23,3,Mainland China,2020-01-23,0,Shaanxi,0
+42,,Australia,2020-01-23,0,,0
+41,2,Vietnam,2020-01-23,0,,0
+40,,Malaysia,2020-01-23,0,,0
+39,,Philippines,2020-01-23,0,,0
+37,1,South Korea,2020-01-23,0,,0
+36,3,Thailand,2020-01-23,0,,0
+35,1,Japan,2020-01-23,0,,0
+38,1,Singapore,2020-01-23,0,,0
+33,2,Mainland China,2020-01-23,0,Yunnan,0
+24,6,Mainland China,2020-01-23,0,Shandong,0
+34,27,Mainland China,2020-01-23,0,Zhejiang,0
+26,1,Mainland China,2020-01-23,0,Shanxi,0
+27,8,Mainland China,2020-01-23,0,Sichuan,0
+28,1,Taiwan,2020-01-23,0,Taiwan,0
+25,16,Mainland China,2020-01-23,0,Shanghai,0
+30,0,Mainland China,2020-01-23,0,Tibet,0
+31,1,US,2020-01-23,0,Washington,0
+32,2,Mainland China,2020-01-23,0,Xinjiang,0
+29,4,Mainland China,2020-01-23,0,Tianjin,0
+11,15,Mainland China,2020-01-24,0,Anhui,0
+18,5,Mainland China,2020-01-24,0,Shaanxi,0
+17,5,Mainland China,2020-01-24,0,Yunnan,0
+16,8,Mainland China,2020-01-24,0,Tianjin,0
+14,9,Mainland China,2020-01-24,0,Jiangsu,0
+13,9,Mainland China,2020-01-24,0,Henan,0
+12,10,Mainland China,2020-01-24,0,Fujian,0
+10,15,Mainland China,2020-01-24,0,Shandong,0
+19,4,Mainland China,2020-01-24,1,Heilongjiang,
+8,18,Mainland China,2020-01-24,0,Jiangxi,0
+7,20,Mainland China,2020-01-24,0,Shanghai,1
+6,23,Mainland China,2020-01-24,0,Guangxi,0
+4,27,Mainland China,2020-01-24,0,Chongqing,0
+3,36,Mainland China,2020-01-24,0,Beijing,1
+2,43,Mainland China,2020-01-24,0,Zhejiang,1
+1,53,Mainland China,2020-01-24,0,Guangdong,2
+0,549,Mainland China,2020-01-24,24,Hubei,31
+9,15,Mainland China,2020-01-24,0,Sichuan,0
+20,4,Mainland China,2020-01-24,0,Liaoning,0
+5,24,Mainland China,2020-01-24,0,Hunan,0
+22,3,Mainland China,2020-01-24,0,Jilin,0
+21,3,Mainland China,2020-01-24,0,Guizhou,0
+40,2,France,2020-01-24,0,,0
+39,2,Vietnam,2020-01-24,0,,0
+38,3,Singapore,2020-01-24,0,,0
+37,2,South Korea,2020-01-24,0,,0
+36,5,Thailand,2020-01-24,0,,0
+35,2,Japan,2020-01-24,0,,0
+34,1,US,2020-01-24,0,Chicago,0
+33,1,US,2020-01-24,0,Washington,0
+32,,Mainland China,2020-01-24,0,Qinghai,0
+15,8,Mainland China,2020-01-24,0,Hainan,0
+30,1,Mainland China,2020-01-24,0,Shanxi,0
+31,1,Mainland China,2020-01-24,0,Inner Mongolia,0
+24,2,Mainland China,2020-01-24,0,Ningxia,0
+25,2,Hong Kong,2020-01-24,0,Hong Kong,0
+23,3,Taiwan,2020-01-24,0,Taiwan,0
+27,2,Mainland China,2020-01-24,1,Hebei,
+28,2,Mainland China,2020-01-24,0,Gansu,0
+29,2,Mainland China,2020-01-24,0,Xinjiang,0
+26,2,Macau,2020-01-24,0,Macau,0
+0,1052,Mainland China,2020-01-25,52,Hubei,42
+19,13,Mainland China,2020-01-25,0,Tianjin,0
+18,15,Mainland China,2020-01-25,0,Shaanxi,0
+17,15,Mainland China,2020-01-25,0,Heilongjiang,0
+16,18,Mainland China,2020-01-25,1,Fujian,
+15,19,Mainland China,2020-01-25,0,Liaoning,0
+14,19,Mainland China,2020-01-25,0,Hainan,0
+13,31,Mainland China,2020-01-25,0,Jiangsu,1
+12,33,Mainland China,2020-01-25,0,Guangxi,0
+9,40,Mainland China,2020-01-25,1,Shanghai,1
+10,39,Mainland China,2020-01-25,0,Shandong,0
+8,44,Mainland China,2020-01-25,0,Sichuan,0
+20,13,Mainland China,2020-01-25,1,Hebei,
+6,60,Mainland China,2020-01-25,0,Anhui,0
+5,69,Mainland China,2020-01-25,0,Hunan,0
+4,75,Mainland China,2020-01-25,0,Chongqing,0
+3,83,Mainland China,2020-01-25,1,Henan,
+2,98,Mainland China,2020-01-25,0,Guangdong,2
+11,36,Mainland China,2020-01-25,0,Jiangxi,0
+21,11,Mainland China,2020-01-25,0,Yunnan,0
+1,104,Mainland China,2020-01-25,0,Zhejiang,1
+23,7,Mainland China,2020-01-25,0,Inner Mongolia,0
+22,9,Mainland China,2020-01-25,0,Shanxi,0
+43,3,Malaysia,2020-01-25,0,,0
+42,1,Nepal,2020-01-25,0,,0
+41,4,Australia,2020-01-25,0,,0
+40,3,France,2020-01-25,0,,0
+39,2,Vietnam,2020-01-25,0,,0
+38,3,Singapore,2020-01-25,0,,0
+37,3,South Korea,2020-01-25,0,,0
+36,7,Thailand,2020-01-25,0,,0
+35,2,Japan,2020-01-25,0,,0
+7,51,Mainland China,2020-01-25,0,Beijing,2
+33,1,US,2020-01-25,0,Washington,0
+32,1,Mainland China,2020-01-25,0,Qinghai,0
+31,2,Macau,2020-01-25,0,Macau,0
+30,3,Taiwan,2020-01-25,0,Taiwan,0
+29,4,Mainland China,2020-01-25,0,Xinjiang,0
+28,4,Mainland China,2020-01-25,0,Jilin,0
+27,4,Mainland China,2020-01-25,0,Ningxia,0
+26,5,Hong Kong,2020-01-25,0,Hong Kong,0
+25,5,Mainland China,2020-01-25,0,Guizhou,0
+24,7,Mainland China,2020-01-25,0,Gansu,0
+34,1,US,2020-01-25,0,Illinois,0
+14,35,Mainland China,2020-01-26,0,Fujian,0
+15,23,Mainland China,2020-01-26,0,Liaoning,0
+16,22,Mainland China,2020-01-26,0,Hainan,0
+20,18,Mainland China,2020-01-26,1,Hebei,0
+18,21,Mainland China,2020-01-26,1,Heilongjiang,0
+19,19,Mainland China,2020-01-26,0,Yunnan,0
+13,46,Mainland China,2020-01-26,0,Guangxi,0
+17,22,Mainland China,2020-01-26,0,Shaanxi,0
+12,47,Mainland China,2020-01-26,,Jiangsu,1
+7,69,Mainland China,2020-01-26,0,Sichuan,0
+10,53,Mainland China,2020-01-26,1,Shanghai,1
+9,63,Mainland China,2020-01-26,0,Shandong,0
+8,68,Mainland China,2020-01-26,,Beijing,2
+21,14,Mainland China,2020-01-26,0,Tianjin,0
+6,70,Mainland China,2020-01-26,0,Anhui,0
+5,100,Mainland China,2020-01-26,0,Hunan,0
+4,110,Mainland China,2020-01-26,0,Chongqing,0
+3,128,Mainland China,2020-01-26,1,Henan,0
+2,128,Mainland China,2020-01-26,,Zhejiang,1
+1,146,Mainland China,2020-01-26,,Guangdong,2
+0,1423,Mainland China,2020-01-26,76,Hubei,44
+11,48,Mainland China,2020-01-26,0,Jiangxi,0
+22,14,Mainland China,2020-01-26,0,Gansu,0
+27,6,Mainland China,2020-01-26,0,Jilin,0
+24,11,Mainland China,2020-01-26,0,Inner Mongolia,0
+46,1,Canada,2020-01-26,0,Ontario,0
+45,4,Malaysia,2020-01-26,0,,0
+44,1,Nepal,2020-01-26,0,,0
+43,4,Australia,2020-01-26,0,,0
+42,3,France,2020-01-26,0,,0
+41,2,Vietnam,2020-01-26,0,,0
+40,4,Singapore,2020-01-26,0,,0
+39,3,South Korea,2020-01-26,0,,0
+38,8,Thailand,2020-01-26,,,2
+23,13,Mainland China,2020-01-26,0,Shanxi,0
+37,4,Japan,2020-01-26,,,1
+35,2,US,2020-01-26,0,California,0
+34,1,US,2020-01-26,0,Illinois,0
+32,4,Mainland China,2020-01-26,0,Qinghai,0
+31,4,Taiwan,2020-01-26,0,Taiwan,0
+30,4,Mainland China,2020-01-26,0,Ningxia,0
+29,5,Mainland China,2020-01-26,0,Xinjiang,0
+28,6,Macau,2020-01-26,0,Macau,0
+26,7,Mainland China,2020-01-26,0,Guizhou,0
+25,8,Hong Kong,2020-01-26,0,Hong Kong,0
+36,1,US,2020-01-26,0,Arizona,0
+33,1,US,2020-01-26,0,Washington,0
+51,1,Germany,2020-01-27,0,Bavaria,0
+50,1,Australia,2020-01-27,0,Victoria,0
+48,0,Ivory Coast,2020-01-27,0,,0
+21,23,Mainland China,2020-01-27,0,Tianjin,0
+20,26,Mainland China,2020-01-27,0,Yunnan,0
+19,27,Mainland China,2020-01-27,0,Liaoning,0
+18,30,Mainland China,2020-01-27,1,Heilongjiang,0
+17,33,Mainland China,2020-01-27,1,Hebei,0
+16,33,Mainland China,2020-01-27,1,Hainan,0
+15,35,Mainland China,2020-01-27,0,Shaanxi,0
+14,51,Mainland China,2020-01-27,0,Guangxi,0
+13,59,Mainland China,2020-01-27,0,Fujian,0
+12,66,Mainland China,2020-01-27,1,Shanghai,3
+22,20,Mainland China,2020-01-27,0,Shanxi,0
+10,72,Mainland China,2020-01-27,,Jiangxi,2
+8,87,Mainland China,2020-01-27,1,Shandong,0
+7,90,Mainland China,2020-01-27,0,Sichuan,0
+6,100,Mainland China,2020-01-27,0,Hunan,0
+5,106,Mainland China,2020-01-27,0,Anhui,0
+4,132,Mainland China,2020-01-27,0,Chongqing,0
+3,151,Mainland China,2020-01-27,,Guangdong,4
+2,168,Mainland China,2020-01-27,1,Henan,0
+1,173,Mainland China,2020-01-27,,Zhejiang,1
+0,2714,Mainland China,2020-01-27,100,Hubei,47
+49,4,Australia,2020-01-27,0,New South Wales,0
+9,80,Mainland China,2020-01-27,1,Beijing,2
+23,19,Mainland China,2020-01-27,0,Gansu,0
+11,70,Mainland China,2020-01-27,,Jiangsu,1
+25,9,Mainland China,2020-01-27,0,Guizhou,0
+24,11,Mainland China,2020-01-27,0,Inner Mongolia,0
+47,1,Sri Lanka,2020-01-27,0,,0
+46,1,Cambodia,2020-01-27,0,,0
+45,1,Canada,2020-01-27,0,Ontario,0
+44,4,Malaysia,2020-01-27,0,,0
+43,1,Nepal,2020-01-27,0,,0
+42,3,France,2020-01-27,0,,0
+40,5,Singapore,2020-01-27,0,,0
+39,4,South Korea,2020-01-27,0,,0
+38,8,Thailand,2020-01-27,,,2
+37,4,Japan,2020-01-27,,,1
+41,2,Vietnam,2020-01-27,0,,0
+27,7,Mainland China,2020-01-27,0,Ningxia,0
+35,2,US,2020-01-27,0,California,0
+34,1,US,2020-01-27,0,Illinois,0
+33,1,US,2020-01-27,0,Washington,0
+32,5,Mainland China,2020-01-27,0,Xinjiang,0
+31,5,Taiwan,2020-01-27,0,Taiwan,0
+30,6,Mainland China,2020-01-27,0,Qinghai,0
+29,6,Macau,2020-01-27,0,Macau,0
+28,6,Mainland China,2020-01-27,0,Jilin,0
+36,1,US,2020-01-27,0,Arizona,0
+26,8,Hong Kong,2020-01-27,0,Hong Kong,0
+14,58,Mainland China,2020-01-28,,Guangxi,2
+15,56,Mainland China,2020-01-28,0,Shaanxi,0
+16,48,Mainland China,2020-01-28,1,Hebei,0
+17,44,Mainland China,2020-01-28,0,Yunnan,0
+22,25,Mainland China,2020-01-28,0,Tianjin,0
+19,37,Mainland China,2020-01-28,1,Heilongjiang,0
+20,36,Mainland China,2020-01-28,0,Liaoning,0
+21,27,Mainland China,2020-01-28,0,Shanxi,0
+13,80,Mainland China,2020-01-28,1,Shanghai,4
+18,43,Mainland China,2020-01-28,1,Hainan,0
+12,82,Mainland China,2020-01-28,0,Fujian,0
+0,3554,Mainland China,2020-01-28,125,Hubei,80
+10,99,Mainland China,2020-01-28,,Jiangsu,1
+9,108,Mainland China,2020-01-28,0,Sichuan,0
+8,109,Mainland China,2020-01-28,,Jiangxi,3
+7,121,Mainland China,2020-01-28,0,Shandong,0
+6,147,Mainland China,2020-01-28,,Chongqing,1
+5,152,Mainland China,2020-01-28,0,Anhui,0
+4,206,Mainland China,2020-01-28,2,Henan,1
+3,221,Mainland China,2020-01-28,0,Hunan,0
+2,241,Mainland China,2020-01-28,,Guangdong,5
+1,296,Mainland China,2020-01-28,,Zhejiang,3
+23,24,Mainland China,2020-01-28,0,Gansu,0
+11,91,Mainland China,2020-01-28,1,Beijing,4
+24,16,Mainland China,2020-01-28,0,Inner Mongolia,0
+36,1,US,2020-01-28,0,Arizona,0
+26,12,Mainland China,2020-01-28,0,Ningxia,0
+51,4,Germany,2020-01-28,0,Bavaria,0
+25,13,Mainland China,2020-01-28,0,Xinjiang,0
+50,1,Australia,2020-01-28,0,Victoria,0
+49,4,Australia,2020-01-28,0,New South Wales,0
+48,1,Sri Lanka,2020-01-28,0,,0
+47,1,Cambodia,2020-01-28,0,,0
+46,1,Canada,2020-01-28,0,British Columbia,0
+45,1,Canada,2020-01-28,0,Ontario,0
+43,1,Nepal,2020-01-28,0,,0
+42,4,France,2020-01-28,0,,0
+41,2,Vietnam,2020-01-28,0,,0
+40,7,Singapore,2020-01-28,0,,0
+44,7,Malaysia,2020-01-28,0,,0
+38,14,Thailand,2020-01-28,,,5
+37,7,Japan,2020-01-28,,,1
+35,2,US,2020-01-28,0,California,0
+34,1,US,2020-01-28,0,Illinois,0
+33,1,US,2020-01-28,0,Washington,0
+32,6,Mainland China,2020-01-28,0,Qinghai,0
+31,7,Macau,2020-01-28,0,Macau,0
+30,8,Taiwan,2020-01-28,0,Taiwan,0
+29,8,Hong Kong,2020-01-28,0,Hong Kong,0
+39,4,South Korea,2020-01-28,0,,0
+28,9,Mainland China,2020-01-28,0,Jilin,0
+27,9,Mainland China,2020-01-28,0,Guizhou,0
+15,65,Mainland China,2020-01-29,1,Hebei,0
+16,56,Mainland China,2020-01-29,0,Shaanxi,0
+17,55,Mainland China,2020-01-29,0,Yunnan,0
+18,43,Mainland China,2020-01-29,1,Hainan,0
+23,26,Mainland China,2020-01-29,0,Gansu,0
+20,39,Mainland China,2020-01-29,,Liaoning,1
+21,35,Mainland China,2020-01-29,,Shanxi,1
+22,27,Mainland China,2020-01-29,0,Tianjin,0
+14,78,Mainland China,2020-01-29,,Guangxi,2
+24,16,Mainland China,2020-01-29,0,Inner Mongolia,0
+19,43,Mainland China,2020-01-29,1,Heilongjiang,0
+13,101,Mainland China,2020-01-29,0,Fujian,0
+1,428,Mainland China,2020-01-29,,Zhejiang,4
+11,111,Mainland China,2020-01-29,1,Beijing,4
+10,129,Mainland China,2020-01-29,,Jiangsu,1
+9,142,Mainland China,2020-01-29,1,Sichuan,1
+8,145,Mainland China,2020-01-29,,Shandong,1
+7,162,Mainland China,2020-01-29,,Jiangxi,4
+6,165,Mainland China,2020-01-29,,Chongqing,1
+5,200,Mainland China,2020-01-29,,Anhui,2
+4,277,Mainland China,2020-01-29,0,Hunan,0
+3,278,Mainland China,2020-01-29,2,Henan,2
+2,311,Mainland China,2020-01-29,,Guangdong,6
+0,4586,Mainland China,2020-01-29,162,Hubei,90
+25,14,Mainland China,2020-01-29,,Jilin,1
+12,101,Mainland China,2020-01-29,1,Shanghai,5
+26,14,Mainland China,2020-01-29,0,Xinjiang,0
+48,1,Cambodia,2020-01-29,0,,0
+28,12,Mainland China,2020-01-29,0,Ningxia,0
+27,12,Mainland China,2020-01-29,,Guizhou,1
+55,4,United Arab Emirates,2020-01-29,0,,0
+54,1,Finland,2020-01-29,0,,0
+53,4,Germany,2020-01-29,0,Bavaria,0
+52,1,Australia,2020-01-29,0,Queensland,0
+51,2,Australia,2020-01-29,0,Victoria,0
+50,4,Australia,2020-01-29,0,New South Wales,0
+49,1,Sri Lanka,2020-01-29,0,,0
+46,2,Canada,2020-01-29,0,Ontario,0
+45,7,Malaysia,2020-01-29,0,,0
+44,1,Nepal,2020-01-29,0,,0
+43,5,France,2020-01-29,0,,0
+42,2,Vietnam,2020-01-29,0,,0
+47,1,Canada,2020-01-29,0,British Columbia,0
+40,4,South Korea,2020-01-29,0,,0
+41,10,Singapore,2020-01-29,0,,0
+30,8,Taiwan,2020-01-29,0,Taiwan,0
+31,7,Macau,2020-01-29,0,Macau,0
+32,6,Mainland China,2020-01-29,0,Qinghai,0
+34,1,US,2020-01-29,0,Washington,0
+33,1,Mainland China,2020-01-29,0,Tibet,0
+36,2,US,2020-01-29,0,California,0
+29,10,Hong Kong,2020-01-29,0,Hong Kong,0
+37,1,US,2020-01-29,0,Arizona,0
+38,11,Japan,2020-01-29,,,1
+39,14,Thailand,2020-01-29,,,5
+35,1,US,2020-01-29,0,Illinois,0
+19,50,Mainland China,2020-01-30,1,Hainan,1
+17,87,Mainland China,2020-01-30,0,Shaanxi,0
+18,59,Mainland China,2020-01-30,2,Heilongjiang,0
+20,45,Mainland China,2020-01-30,,Liaoning,1
+26,17,Mainland China,2020-01-30,0,Xinjiang,0
+22,32,Mainland China,2020-01-30,0,Tianjin,0
+23,29,Mainland China,2020-01-30,0,Gansu,0
+24,21,Mainland China,2020-01-30,,Ningxia,1
+25,20,Mainland China,2020-01-30,0,Inner Mongolia,0
+16,76,Mainland China,2020-01-30,0,Yunnan,0
+21,39,Mainland China,2020-01-30,,Shanxi,1
+15,82,Mainland China,2020-01-30,1,Hebei,0
+1,537,Mainland China,2020-01-30,,Zhejiang,9
+13,101,Mainland China,2020-01-30,0,Fujian,0
+12,121,Mainland China,2020-01-30,1,Beijing,5
+11,128,Mainland China,2020-01-30,1,Shanghai,9
+10,168,Mainland China,2020-01-30,,Jiangsu,2
+9,177,Mainland China,2020-01-30,1,Sichuan,1
+8,178,Mainland China,2020-01-30,,Shandong,2
+7,206,Mainland China,2020-01-30,,Chongqing,1
+6,237,Mainland China,2020-01-30,,Anhui,3
+5,240,Mainland China,2020-01-30,,Jiangxi,7
+4,332,Mainland China,2020-01-30,,Hunan,2
+3,352,Mainland China,2020-01-30,2,Henan,3
+2,393,Mainland China,2020-01-30,,Guangdong,11
+27,15,Mainland China,2020-01-30,,Guizhou,1
+14,87,Mainland China,2020-01-30,,Guangxi,2
+28,14,Mainland China,2020-01-30,,Jilin,1
+42,2,Vietnam,2020-01-30,0,,0
+30,9,Taiwan,2020-01-30,0,Taiwan,0
+58,2,Italy,2020-01-30,0,,0
+57,1,India,2020-01-30,0,,0
+56,1,Philippines,2020-01-30,0,,0
+55,4,United Arab Emirates,2020-01-30,0,,0
+54,1,Finland,2020-01-30,0,,0
+53,4,Germany,2020-01-30,0,Bavaria,0
+52,3,Australia,2020-01-30,0,Queensland,0
+51,2,Australia,2020-01-30,0,Victoria,0
+50,4,Australia,2020-01-30,,New South Wales,2
+49,1,Sri Lanka,2020-01-30,0,,0
+48,1,Cambodia,2020-01-30,0,,0
+47,1,Canada,2020-01-30,0,British Columbia,0
+46,2,Canada,2020-01-30,0,Ontario,0
+45,8,Malaysia,2020-01-30,0,,0
+44,1,Nepal,2020-01-30,0,,0
+43,5,France,2020-01-30,0,,0
+41,10,Singapore,2020-01-30,0,,0
+40,6,South Korea,2020-01-30,0,,0
+39,14,Thailand,2020-01-30,,,5
+38,11,Japan,2020-01-30,,,1
+37,1,US,2020-01-30,0,Arizona,0
+36,2,US,2020-01-30,0,California,0
+35,2,US,2020-01-30,0,Illinois,0
+34,1,US,2020-01-30,0,Washington,0
+33,1,Mainland China,2020-01-30,0,Tibet,0
+32,7,Macau,2020-01-30,0,Macau,0
+31,8,Mainland China,2020-01-30,0,Qinghai,0
+29,12,Hong Kong,2020-01-30,0,Hong Kong,0
+0,5806,Mainland China,2020-01-30,204,Hubei,116
